@@ -1,0 +1,17 @@
+/* 
+    Document   : style.css
+    Created on : Nov 13, 2013, 7:11:56 PM
+    Author     : an23084
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body{
+    
+    background: whitesmoke;
+    color: #333;
+}
+.happy-fun-time{
+    color: brown;
+    font-weight: bold;
+}
